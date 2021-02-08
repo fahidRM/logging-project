@@ -5,7 +5,7 @@ This is a collection of sample jason projects that are capable of logging to the
 
 #### How to use the logger with your Project (JASON only)
 
-1. Include the `stag-lib.jar` library in your project as a dependency. [see]().
+1. Include the `stag-lib.jar` library in your project as a dependency. [see](https://github.com/fahidRM/logging-project/releases/tag/1.0.0-beta).
 2. To log an agent, set it to use the `jason_logger.LoggerAgArch` AgArch. 
    This can be done through the `mas2j` file as shown below;
    
