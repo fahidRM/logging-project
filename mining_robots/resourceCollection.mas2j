@@ -1,0 +1,9 @@
+MAS resourceCollection {
+    infrastructure: Centralised
+
+    environment: env.planetEnv
+
+    agents:
+        col agentArchClass  jason_logger.LoggerAgArch #3;
+        builder agentArchClass  jason_logger.LoggerAgArch;
+}
